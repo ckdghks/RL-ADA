@@ -1,0 +1,5 @@
+# .gitignore
+pretrained/
+logs/
+logs_0415/
+logs_0421/
